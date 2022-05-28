@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Akon2020
+- 👀 I’m interested in web programming and cyber security
+- 🌱 I’m currently learning hacking (Capture The Flag)
+- 💞️ I’m looking to collaborate on github to broaden my horizons as a #Geek
+- 📫 How to reach me: 
+-   Facebook: https://facebook.com/Akonkwa.Ushindi/
+-   Instagram: https://instagram/akonizk/
+-   Telegram: @Akon1960
+-   Gmail: akonkwaushindi@gmail.com
+-   Outlook: akonkwaushindi@outlook.com
+
