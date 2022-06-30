@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 -   Facebook: https://facebook.com/Akonkwa.Ushindi/
 -   Instagram: https://instagram/akonizk/
--   Telegram: @Akon1960
+-   Telegram: http://t.me/Akon1960
 -   Gmail: akonkwaushindi@gmail.com
 -   Outlook: akonkwaushindi@outlook.com
 
