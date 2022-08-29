@@ -2,7 +2,8 @@
 - 👀 I’m interested in web programming and cyber security
 - 🌱 I’m currently learning hacking (Capture The Flag)
 - 💞️ I’m looking to collaborate on github to broaden my horizons as a #Geek
-- 📫 How to reach me: 
+- 📫 How to reach me:
+-   Github: https://github.com/akon2020
 -   Facebook: https://facebook.com/Akonkwa.Ushindi/
 -   Instagram: https://instagram/akonizk/
 -   Telegram: http://t.me/Akon1960
