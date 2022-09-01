@@ -9,4 +9,6 @@
 -   Telegram: http://t.me/Akon1960
 -   Gmail: akonkwaushindi@gmail.com
 -   Outlook: akonkwaushindi@outlook.com
+-   Dev Community: https://dev.to/akon2020
+-   Linkedin: https://www.linkedin.com/in/akonizk/
 
