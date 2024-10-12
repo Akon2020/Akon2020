@@ -22,8 +22,6 @@
 - 📄 Know about my experiences [https://cutt.ly/akonkwa-ushindi](https://cutt.ly/akonkwa-ushindi)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,10 +32,9 @@
 <a href="https://instagram.com/akonizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akonizk" height="30" width="40" /></a>
 <a href="https://medium.com/@akonizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akonizk" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools That I Use:</h3>
 
-<h4 align="left">MERN Stack</h4>
+<h4 align="left">MERN Stack:</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -56,7 +53,7 @@
   </a>
 </p>
 
-<h4 align="left">Frontend Technologies</h4>
+<h4 align="left">Frontend Technologies:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -78,7 +75,7 @@
   </a>
 </p>
 
-<h4 align="left">Backend and Databases</h4>
+<h4 align="left">Backend and Databases:</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -92,12 +89,22 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
 </p>
 
-<h4 align="left">Other Tools</h4>
+<h4 align="left">Mobile Development:</h4>
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/2048px-Android_logo_2019.svg.png" alt="android studio" width="40" height="40"/>
+  </a>
+</p>
+
+<h4 align="left">Other Tools:</h4>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -108,8 +115,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 </p>
-
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/akonizk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akonizk" /></a></p><br></br>
