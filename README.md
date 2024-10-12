@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akon2020" alt="akon2020" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akon1703" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg&style=for-the-badge" alt="akon1703" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/akon1703" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/akon1703?logo=twitter&style=for-the-badge" alt="Twitter Follow akon1703" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Transapp with React Native**
 
