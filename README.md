@@ -46,8 +46,11 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=akon2020&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
+  </tr>
+  <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
   </tr>
 </table>
+
 
 
