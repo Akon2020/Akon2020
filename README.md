@@ -100,7 +100,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/2048px-Android_logo_2019.svg.png" alt="android studio" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="android studio" width="40" height="40"/>
   </a>
 </p>
 
