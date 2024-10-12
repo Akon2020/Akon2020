@@ -40,7 +40,7 @@
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/akonizk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akonizk" /></a></p><br></br>
-### :fire: My Stats :
+<h3 align="left"> :fire: My Stats :</h3>
 [![]<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akon2020&show_icons=true&locale=en" alt="akon2020" /></p>]
 [![]<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akon2020&" alt="akon2020" /></p>]
 </br>
