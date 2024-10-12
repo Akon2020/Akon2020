@@ -41,10 +41,13 @@
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/akonizk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akonizk" /></a></p><br></br>
 <h3 align="left"> :fire: My Stats :</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akon2020&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="akon2020" /></p>
-</br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></p>
-</br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></p>
-</br>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=akon2020&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=akon2020&size_weight=0.5&count_weight=0.5" alt="akon2020" /></td>
+  </tr>
+</table>
+
 
