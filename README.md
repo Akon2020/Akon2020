@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akon2020" alt="akon2020" /></a> </p>
 
 <p align="left">
-  <a href="https://twitter.com/akon1703" target="_blank">
+  <a href="https://twitter.com/akon1703" target="_blank" style="display: inline-flex; align-items: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter Logo" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://img.shields.io/twitter/follow/akon1703?logo=twitter&style=for-the-badge" alt="Twitter Follow akon1703" />
   </a>
 </p>
