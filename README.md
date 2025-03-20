@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akonkwa Ushindi Isaac</h1>
+<h1 align="center">Hi 👋, I'm Isaac Akonkwa</h1>
 <h3 align="center">A passionate of web developement, app developement and cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akon2020&label=Profile%20views&color=0e75b6&style=flat" alt="akon2020" /> </p>
