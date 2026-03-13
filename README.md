@@ -10,7 +10,7 @@ I design and build **scalable web and mobile systems**, secure backend infrastru
 
 Beyond coding, I mentor developers, contribute to tech communities and explore **the intersection of software engineering, cybersecurity and artificial intelligence**.
 
-<!-- ![Snake animation](https://github.com/Akon2020/Akon2020/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Akon2020/Akon2020/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   
