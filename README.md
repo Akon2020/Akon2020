@@ -139,3 +139,9 @@ Deep learning model built with **Python, TensorFlow/Keras and Convolutional Neur
 💡 *I believe technology should not only solve problems but also empower communities and create opportunities.*
 
 ---
+
+<div align="center">
+  
+  ![snake gif](https://github.com/Akon2020/Akon2020/blob/output/github-snake-dark.svg)
+
+</div>
