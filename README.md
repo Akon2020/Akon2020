@@ -12,6 +12,11 @@ Beyond coding, I mentor developers, contribute to tech communities and explore *
 
 <!-- ![Snake animation](https://github.com/Akon2020/Akon2020/blob/output/github-contribution-grid-snake.svg) -->
 
+<div align="center">
+  
+  ![snake gif](https://github.com/Akon2020/Akon2020/blob/output/github-snake-dark.svg)
+
+</div>
 ---
 
 # 🚀 What I’m Working On
